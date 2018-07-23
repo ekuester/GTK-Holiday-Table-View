@@ -1,0 +1,20 @@
+Easter depending holidays
+English - German
+    Septuagesima Sunday = easterSunday(...) -63
+    Sexagesima Sunday = easterSunday(...) -56
+    Shrove Sunday = easterSunday(...) -49 Tulpen-, Fastnachts- oder Faschingssonntag
+    Shrove Monday = easterSunday(...) -48 Rosenmontag
+    Shrove Tuesday = easterSunday(...) -47 Veilchen, Fastnachts- oder Faschingsdienstag
+    Ash Wednesday = easterSunday(...) -46 Aschermittwoch
+    Mothers Day (UK only)= easterSunday(...) -21 Muttertag
+    Passion Sunday = easterSunday(...) -14 Passionssonntag
+    Palm Sunday = easterSunday(...) -7 Palmsonntag
+    Holy or Maundy Thursday = easterSunday(...) -3 Gründonnerstag
+    Good Friday = easterSunday(...) -2 Karfreitag
+    Rogation Sunday = easterSunday(...) +35
+    Ascension Day = easterSunday(...) +39 Himmelfahrt
+    Pentecost or Whitsunday = easterSunday(...) +49 Pfingsten
+    Whitmundy = easterSunday(...) +50 Pfingstmontag
+    Trinity Sunday = easterSunday(...) +56 Dreifaltigkeitssonntag
+    Corpus Christi = easterSunday(...) +60 Fronleichnam
+        easterSunday(...) +63 (Catholic Church in the United States)
