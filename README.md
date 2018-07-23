@@ -17,6 +17,6 @@ Usage: You will find the program mostly self explaining. On input of a year numb
 
 There is an in my eyes excellent article from Howart Hinnant
 <http://howardhinnant.github.io/date_algorithms.html>
-regarding calculating and converting gregorian dates. I adopted some of his routines in an own class Gregorian which assigns every day in the gregorian calendar an unique number. In my implementation this number is defined as double. If this number has decimal places these are interpreted as fraction of the day which means if you multiply this fraction with 86400 (24x60x60) you will get the seconds elepsed after midnight. From that it is easy to calculate the time in hours, minutes and seconds ...
+regarding calculating and converting gregorian dates. I adopted some of his routines in an own class Gregorian which assigns every day in the gregorian calendar an unique number. In my implementation this number is defined as double. If this number has decimal places these are interpreted as fraction of the day which means if you multiply this fraction with 86400 (24x60x60) you will get the seconds elapsed after midnight. From that it is easy to calculate the time in hours, minutes and seconds ...
 
 Disclaimer: Use the program for what purpose you like, but hold in mind, that I will not be responsible for any harm it will cause to your hard- or software. It was your decision to use this piece of software.
